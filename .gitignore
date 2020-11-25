@@ -4,6 +4,7 @@
 # codeblocks IDE
 *.layout
 *.depends
+*.cbp
 obj/
 bin/
 
