@@ -4,6 +4,7 @@
  * or given a Temperature in degrees Celsius convert to degrees Fahrenheit
  *
  * Author: Jeremy Hawkins
+ * Version: 0.1
  * November 2020
  */
 
