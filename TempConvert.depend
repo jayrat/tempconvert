@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606280616 source:d:\projects\learning\tempconvert\main.c
+	<stdio.h>
+	<ctype.h>
+
